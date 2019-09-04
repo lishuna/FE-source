@@ -11,6 +11,7 @@
 ### 常用工具网站
 - [正则在线校验 regex101](https://regex101.com/)
 - [在线做题 codewars](https://www.codewars.com/)
+- [前端资源一览](https://github.com/jobbole/awesome-javascript-cn)
 
 
 ### 前端字典
