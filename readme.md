@@ -19,3 +19,4 @@
 - [移动端web app自适应布局探索与总结](http://www.codeceo.com/article/font-size-web-design.html)
 - [手写MVVM框架](https://github.com/DMQ/mvvm)
 - [动画硬件加速](https://www.w3cplus.com/css3/introduction-to-hardware-acceleration-css-animations.html)
+- [Webpack源码探究打包流程](https://juejin.im/post/5c0206626fb9a049bc4c6540)
